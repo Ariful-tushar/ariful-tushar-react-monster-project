@@ -1,7 +1,7 @@
 {
   "name": "monster-rolodex",
   "version": "0.1.0",
-  "homepage": "https://ariful-tushar.github.io/monster-rolodex",
+  "homepage": "https://ariful-tushar.github.io/ariful-tushar-react-monster-project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
