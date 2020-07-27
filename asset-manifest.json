@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monster-rolodex/static/css/main.807d4878.chunk.css",
-    "main.js": "/monster-rolodex/static/js/main.e16d207e.chunk.js",
-    "main.js.map": "/monster-rolodex/static/js/main.e16d207e.chunk.js.map",
-    "runtime-main.js": "/monster-rolodex/static/js/runtime-main.4a41f6c3.js",
-    "runtime-main.js.map": "/monster-rolodex/static/js/runtime-main.4a41f6c3.js.map",
-    "static/js/2.9fc7c5d0.chunk.js": "/monster-rolodex/static/js/2.9fc7c5d0.chunk.js",
-    "static/js/2.9fc7c5d0.chunk.js.map": "/monster-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
-    "index.html": "/monster-rolodex/index.html",
-    "precache-manifest.9df29a664071a446e9be4bb6d044509f.js": "/monster-rolodex/precache-manifest.9df29a664071a446e9be4bb6d044509f.js",
-    "service-worker.js": "/monster-rolodex/service-worker.js",
-    "static/css/main.807d4878.chunk.css.map": "/monster-rolodex/static/css/main.807d4878.chunk.css.map",
-    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/monster-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+    "main.css": "/ariful-tushar-react-monster-project/static/css/main.807d4878.chunk.css",
+    "main.js": "/ariful-tushar-react-monster-project/static/js/main.be0d26d5.chunk.js",
+    "main.js.map": "/ariful-tushar-react-monster-project/static/js/main.be0d26d5.chunk.js.map",
+    "runtime-main.js": "/ariful-tushar-react-monster-project/static/js/runtime-main.cb764983.js",
+    "runtime-main.js.map": "/ariful-tushar-react-monster-project/static/js/runtime-main.cb764983.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/ariful-tushar-react-monster-project/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/ariful-tushar-react-monster-project/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/ariful-tushar-react-monster-project/index.html",
+    "precache-manifest.34e9b662a7728bd291d74985495e205a.js": "/ariful-tushar-react-monster-project/precache-manifest.34e9b662a7728bd291d74985495e205a.js",
+    "service-worker.js": "/ariful-tushar-react-monster-project/service-worker.js",
+    "static/css/main.807d4878.chunk.css.map": "/ariful-tushar-react-monster-project/static/css/main.807d4878.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/ariful-tushar-react-monster-project/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a41f6c3.js",
+    "static/js/runtime-main.cb764983.js",
     "static/js/2.9fc7c5d0.chunk.js",
     "static/css/main.807d4878.chunk.css",
-    "static/js/main.e16d207e.chunk.js"
+    "static/js/main.be0d26d5.chunk.js"
   ]
 }
